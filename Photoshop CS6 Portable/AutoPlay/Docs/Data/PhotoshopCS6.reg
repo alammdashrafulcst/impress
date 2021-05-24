@@ -1,0 +1,382 @@
+REGEDIT4
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Photoshop]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Photoshop\60.0]
+"FreeBeforeSlopAdjust"=dword:00380000
+"FreeSpace"=dword:001e84cc
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Photoshop\60.0\ApplicationPath]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Photoshop\60.0\PluginPath]
+
+[HKEY_CURRENT_USER\Software\Adobe]
+
+[HKEY_CURRENT_USER\Software\Adobe\1012FD993142]
+@="2D13486093F81EF25793DC5BB7A6896618010B3A"
+
+[HKEY_CURRENT_USER\Software\Adobe\2A82AFEAF037]
+@="A4B7C6B7C11A3EC852E654392F53BB00A425F75C"
+
+[HKEY_CURRENT_USER\Software\Adobe\4CADC948D484]
+@="3C0CFE4481D6D9F97EC50FBDB5EBDCA7BEBDBB09"
+
+[HKEY_CURRENT_USER\Software\Adobe\A24D32BBC412]
+@="1297AD947A4C3ED8303A12D42E08D98C9B80E61E"
+
+[HKEY_CURRENT_USER\Software\Adobe\CommonFiles]
+
+[HKEY_CURRENT_USER\Software\Adobe\CommonFiles\Usage]
+"GUID"="4b723b50-aae7-4f55-bef3-3fd9692ff3a3"
+"Agent"="G:\\wordpress batch 16\\class 13\\Photoshop CS6 Portable\\Photoshop CS6 Portable\\AutoPlay\\Docs\\App\\PhotoshopCS6\\"
+
+[HKEY_CURRENT_USER\Software\Adobe\CommonFiles\Usage\CS6]
+"OptIn"=dword:00000000
+"Date"="2015-04-21T10:29:05Z"
+
+[HKEY_CURRENT_USER\Software\Adobe\CommonFiles\Usage\CS6Headlights]
+
+[HKEY_CURRENT_USER\Software\Adobe\CommonFiles\Usage\CS6Headlights\Adobe Photoshop CS6]
+"Prerelease"=dword:00000000
+"Build"="13.0 20120315.r.428 2012/03/15:21:00:00"
+"LaunchCounter"=dword:00000005
+
+[HKEY_CURRENT_USER\Software\Adobe\CommonFiles\Usage\CS6_CS6_Adobe Photoshop CS6_13.0]
+"OptIn"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\D3D1ED83F23A]
+@="58E319D509550FA7892B1667020290986F1E6500"
+
+[HKEY_CURRENT_USER\Software\Adobe\IAC]
+"UserID"="8367B370A9F9DF197546B0F33C4DC7FA"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser]
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU]
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop]
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList]
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2016-05-29T15:20:44.9350Z]
+@="C:\\Users\\Mahmud\\Desktop\\20160529_201904.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2016-06-06T13:39:59.00Z]
+@="C:\\Users\\Mahmud\\Desktop\\20160606_100157.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2016-06-08T10:31:06.7090Z]
+@="C:\\Users\\Mahmud\\Desktop\\20150820_160256.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2016-06-10T21:44:41.3090Z]
+@="C:\\Users\\Mahmud\\Desktop\\received_1561645390798849.jpeg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2016-06-12T06:20:30.150Z]
+@="C:\\Users\\Mahmud\\Downloads\\faagewyhh.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2016-06-12T06:21:36.3311Z]
+@="C:\\Users\\Mahmud\\Downloads\\RE,ON.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2016-06-13T16:51:40.8561Z]
+@="C:\\Users\\Mahmud\\Desktop\\2016-04-10-13-55-51-057.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2016-06-20T17:41:18.6360Z]
+@="C:\\Users\\Mahmud\\Desktop\\20160620_190836.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2016-06-23T15:41:47.7120Z]
+@="C:\\Users\\Mahmud\\Desktop\\MYXJ_20160622182907_fast.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2016-06-23T16:10:52.1201Z]
+@="C:\\Users\\Mahmud\\Desktop\\20160623_103144.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2016-06-23T16:14:57.4422Z]
+@="C:\\Users\\Mahmud\\Desktop\\re.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2016-06-23T16:23:49.3880Z]
+@="C:\\Users\\Mahmud\\Desktop\\w.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2016-06-28T16:59:23.3240Z]
+@="C:\\Users\\Mahmud\\Desktop\\20160627_185300.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2016-06-28T17:00:25.4391Z]
+@="C:\\Users\\Mahmud\\Desktop\\20160627_185917.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2016-06-28T17:01:05.8392Z]
+@="C:\\Users\\Mahmud\\Desktop\\20160627_190841.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2016-07-20T04:37:41.7250Z]
+@="C:\\Users\\ifthakhar\\Desktop\\146898896384744.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2016-07-23T14:20:44.9090Z]
+@="C:\\Users\\ifthakhar\\Desktop\\IMG-20160622-WA0028.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2016-07-28T08:49:18.1172Z]
+@="C:\\Users\\ifthakhar\\Desktop\\2016-07-28-10-44-37-349.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2016-08-01T15:46:34.720Z]
+@="C:\\Users\\ifthakhar\\Desktop\\2016-08-01-20-22-50-386.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2016-08-04T14:32:44.1120Z]
+@="C:\\Users\\Ifthakhar\\Desktop\\20160804_193008.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2016-08-09T14:34:28.4320Z]
+@="C:\\Users\\Ifthakhar\\Desktop\\20160518_192246.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2016-08-12T18:49:35.2020Z]
+@="C:\\Users\\Ifthakhar\\Desktop\\2016-08-12-15-59-19-582.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2016-08-13T14:44:19.3400Z]
+@="C:\\Users\\Ifthakhar\\Desktop\\2016-08-12-18-15-33-607.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2016-08-13T18:06:01.5510Z]
+@="C:\\Users\\Ifthakhar\\Desktop\\20150221_202544.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2016-08-13T18:07:00.2141Z]
+@="C:\\Users\\Ifthakhar\\Desktop\\20150820_140501.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2016-08-13T18:07:14.4962Z]
+@="C:\\Users\\Ifthakhar\\Desktop\\20151123_172852.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2016-08-27T15:56:52.1220Z]
+@="C:\\Users\\Ifthakhar\\Desktop\\2016-08-27-20-51-12-079.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2016-09-04T16:12:36.4090Z]
+@="C:\\Users\\Ifthakhar\\Desktop\\2016-09-04-13-36-45-125.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2016-09-04T16:29:34.181Z]
+@="C:\\Users\\Ifthakhar\\Desktop\\2016-09-04-13-25-41-253.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2016-09-04T16:32:53.4342Z]
+@="C:\\Users\\Ifthakhar\\Desktop\\2016-09-04-17-32-04-829.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2016-09-15T11:30:36.1301Z]
+@="C:\\Users\\Ifthakhar\\Desktop\\20150707_145556.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2016-09-21T03:15:10.3841Z]
+@="C:\\Users\\Ifthakhar\\Desktop\\FB_IMG_1474312471868.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2016-09-23T13:32:54.3580Z]
+@="C:\\Users\\Ifthakhar\\Desktop\\2016-09-23-13-06-56-109.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2016-09-27T03:52:52.9820Z]
+@="C:\\Users\\Ifthakhar\\Desktop\\own\\received_1596821840614537.jpeg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-04-06T05:28:48.1950Z]
+@="C:\\Users\\ifthekhar\\Desktop\\resorce\\Factorian Files\\Factorian PSD\\01_Factorian_Home.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-04-06T05:30:08.7951Z]
+@="C:\\Users\\ifthekhar\\Desktop\\resorce\\SEO Files\\SEO PSD\\01_SEO_Home page_01.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-04-06T10:17:42.5500Z]
+@="C:\\Users\\ifthekhar\\Desktop\\resorce\\SEO Files\\SEO PSD\\02_SEO_Home page_02.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-04-14T03:49:32.2980Z]
+@="E:\\work part 2\\development\\RRF Pro\\100 Section Development\\4\\Kindness_services.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-04-16T06:09:59.3570Z]
+@="C:\\Users\\MAHMUD\\Desktop\\Screenshot_1.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-04-16T16:04:34.8110Z]
+@="C:\\Users\\MAHMUD\\Desktop\\Promise_Services-02.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-04-17T14:15:40.9950Z]
+@="E:\\work part 2\\development\\RRF Pro\\100 Section Development\\6\\pricing_plan.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-04-17T17:59:28.5101Z]
+@="E:\\work part 2\\development\\RRF Pro\\100 Section Development\\7\\Jharu_Team.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-04-21T04:58:02.3630Z]
+@="C:\\Users\\MAHMUD\\Desktop\\flowchart.PNG"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-04-22T18:45:03.5110Z]
+@="E:\\work part 2\\development\\RRF Pro\\100 Section Development\\Exam-1\\minimo.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-04-27T04:43:31.4800Z]
+@="E:\\work part 2\\development\\RRF Pro\\Advance WP\\Resources\\SEO Files\\SEO PSD\\01_SEO_Home page_01.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-04-29T10:36:27.5771Z]
+@="C:\\Users\\MAHMUD\\Desktop\\images\\4.1.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-04-29T11:03:59.8100Z]
+@="C:\\Users\\MAHMUD\\Desktop\\New Doc 2017-04-29 (1)_1.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-04-29T11:14:47.2531Z]
+@="C:\\Users\\MAHMUD\\Desktop\\images\\full.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-04-30T08:27:25.1150Z]
+@="C:\\Users\\MAHMUD\\Desktop\\project\\images\\full.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-05-21T02:10:11.2000Z]
+@="E:\\work part 2\\development\\RRF Pro\\100 Section Development\\10\\fashion-template.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-05-29T10:13:56.2421Z]
+@="E:\\work part 2\\development\\RRF Pro\\100 Section Development\\Exam-2\\code\\assets\\images\\logo.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-05-30T16:24:53.9580Z]
+@="E:\\work part 2\\development\\RRF Pro\\100 Section Development\\Exam-2\\100-section-exam-2.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-06-10T08:51:22.7910Z]
+@="E:\\work part 2\\development\\RRF Pro\\100 Section Development\\39\\code\\assets\\images\\1.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-06-10T19:38:58.8851Z]
+@="E:\\work part 2\\development\\RRF Pro\\100 Section Development\\41\\code\\assets\\images\\1.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-06-10T20:57:25.160Z]
+@="E:\\work part 2\\development\\RRF Pro\\100 Section Development\\41\\18518385_1544797492205124_5260988290100408691_o.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-06-19T06:01:13.9970Z]
+@="E:\\work part 2\\development\\RRF Pro\\100 Section Development\\50-100\\56\\full-shot.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-07-03T14:43:11.8040Z]
+@="C:\\Users\\Ifthakhar\\Desktop\\1.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-07-06T16:42:47.870Z]
+@="E:\\work part 2\\development\\RRF Pro\\100 Section Development\\50-100\\65\\features.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-08-01T12:08:23.4520Z]
+@="C:\\Users\\Ifthakhar\\Desktop\\code\\assets\\images\\forward.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-08-01T12:15:31.5710Z]
+@="C:\\Users\\Ifthakhar\\Desktop\\code\\assets\\css\\forward.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-08-07T00:49:30.6070Z]
+@="C:\\Users\\Ifthakhar\\Downloads\\Compressed\\789.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-08-07T00:50:54.8661Z]
+@="C:\\Users\\Ifthakhar\\Desktop\\789.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-08-18T07:12:45.3750Z]
+@="C:\\xampp\\htdocs\\sunny\\img\\FirstPremierBank.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-08-18T13:19:45.7790Z]
+@="C:\\Users\\Ifthakhar\\Desktop\\Screenshot_1.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-08-22T06:42:47.4650Z]
+@="E:\\work part 2\\development\\funda Pro\\Advance WP 2\\Industry Home.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-08-24T06:20:11.9250Z]
+@="C:\\Users\\Ifthakhar\\Downloads\\Product_Tab-Pristatymas_Mobile.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-08-30T10:16:51.4910Z]
+@="C:\\Users\\Ifthakhar\\Desktop\\20842259_1949604171949373_2086049784298627273_n.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-08-30T10:17:05.1571Z]
+@="C:\\Users\\Ifthakhar\\Desktop\\Screenshot_20170830-161451.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-09-10T04:13:21.3472Z]
+@="C:\\Users\\Ifthakhar\\Desktop\\New folder\\img\\logo.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-09-13T05:25:30.5830Z]
+@="C:\\Users\\Ifthakhar\\Downloads\\personal portfolio website templates.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-09-13T12:20:53.6460Z]
+@="C:\\Users\\Ifthakhar\\Desktop\\New folder (2)\\personal portfolio website templates.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-09-14T14:59:53.8121Z]
+@="C:\\Users\\Ifthakhar\\Desktop\\pp\\assets\\img\\self-photo.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-09-16T02:28:54.4470Z]
+@="C:\\Users\\Ifthakhar\\Downloads\\Compressed\\restaurant.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-09-16T04:08:46.9360Z]
+@="C:\\Users\\Ifthakhar\\Desktop\\day 10\\restaurant.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-09-17T08:02:41.3310Z]
+@="C:\\Users\\Ifthakhar\\Desktop\\pp\\personal portfolio website templates.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-09-18T13:02:48.8400Z]
+@="C:\\Users\\Ifthakhar\\Desktop\\IMG_20170323_135753.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-09-20T04:58:39.1170Z]
+@="D:\\Universal IT\\day 10\\restaurant.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-09-23T02:02:24.8430Z]
+@="C:\\Users\\Ifthakhar\\Downloads\\Compressed\\0.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-09-23T02:05:31.2441Z]
+@="C:\\Users\\Ifthakhar\\Desktop\\1.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-09-23T02:07:58.2142Z]
+@="C:\\Users\\Ifthakhar\\Downloads\\Compressed\\PSD\\Home.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-09-23T02:16:34.4963Z]
+@="C:\\Users\\Ifthakhar\\Downloads\\Compressed\\PSD\\Product Show.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-09-23T02:25:33.235Z]
+@="C:\\Users\\Ifthakhar\\Downloads\\Compressed\\Startuprr-Onepage.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-09-23T04:05:44.9790Z]
+@="C:\\Users\\Ifthakhar\\Downloads\\Compressed\\Cuda Single Page Portfolio\\Cuda Single Page Portfolio.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-09-23T04:46:38.150Z]
+@="C:\\Users\\Ifthakhar\\Desktop\\class 13\\Cuda Single Page Portfolio.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-10-09T04:58:26.3370Z]
+@="C:\\Users\\Mahmud\\Downloads\\Compressed\\the-modernist\\the-modernist.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-10-14T04:08:24.6270Z]
+@="D:\\Universal IT\\Day 18\\the-modernist.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-10-16T02:20:07.8580Z]
+@="C:\\Users\\Mahmud\\Downloads\\Compressed\\nobodysfool\\nobodysfool.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-10-16T04:32:59.4160Z]
+@="C:\\Users\\Mahmud\\Desktop\\Day 21\\nobodysfool.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-10-26T09:49:47.7050Z]
+@="I:\\Corporate website templates.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-10-27T04:33:52.1060Z]
+@="C:\\Users\\Mahmud\\Downloads\\BBL_Template_1024x576_League_Table.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-11-08T07:53:16.8530Z]
+@="C:\\Users\\Mahmud\\Desktop\\20171104_160001-01.jpeg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-11-10T11:00:50.1820Z]
+@="C:\\Users\\Mahmud\\Downloads\\Modus Versus\\PSDs\\index.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-11-10T11:01:40.1041Z]
+@="C:\\Users\\Mahmud\\Downloads\\Modus Versus\\PSDs\\contacts.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-11-12T16:27:24.2160Z]
+@="C:\\Users\\Mahmud\\Downloads\\Mobark.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2017-11-20T09:53:31.9230Z]
+@="F:\\Ifthekhar Mahmud\\Batch 106\\Day 13\\personal portfolio website templates.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2018-08-01T07:55:38.1061Z]
+@="G:\\Client project\\Client 1 - brazil\\header-slide-1.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2018-08-01T07:56:04.2992Z]
+@="G:\\Client project\\Client 1 - brazil\\logo-icon.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2018-08-01T08:06:33.7694Z]
+@="G:\\Client project\\Client 1 - brazil\\CuritibaBarbell (1) (2).png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2018-08-01T08:13:18.6435Z]
+@="G:\\Client project\\Client 1 - brazil\\header-slide-1.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2018-08-01T13:38:31.4500Z]
+@="G:\\Client project\\Client 1 - brazil\\CuritibaBarbell (1).png"
+
+[HKEY_CURRENT_USER\Software\Adobe\Photoshop]
+
+[HKEY_CURRENT_USER\Software\Adobe\Photoshop\60.0]
+"uiLanguageKey CS6"="en_US"
+"oldPaletteFontTypeKey CS6"=dword:00000000
+"MemoryUsage"=dword:0000003c
+"ShowStatusWindow"=dword:00000001
+"AppWindowPosition"="[106,92,1230,656]"
+
+[HKEY_CURRENT_USER\Software\Adobe\Photoshop\60.0\VisitedDirs]
+"STARTUPIMAGEDIRECTORY"="G:\\ZZZZZZZ Project\\images\\"
+
+[HKEY_CURRENT_USER\Software\Adobe\Photoshop\8.0]
+"SettingsFilePath"="C:\\Users\\Mother Computer\\AppData\\Roaming\\Adobe\\Photoshop\\8.0 ME\\Adobe Photoshop CS Settings\\"
+"ScratchWarningSeen"=dword:00000001
+"MemoryUsage"=dword:00000032
+"ShowStatusWindow"=dword:00000001
+"AppWindowPosition"="[2,2,1018,722]"
+"AppWindowMaximized"=dword:00000000
+"Next UI"=dword:00000000
